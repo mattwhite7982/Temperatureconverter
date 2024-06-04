@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.netlify.main__dazzling_phoenix_0d858a.twa",
+      "sha256_cert_fingerprints": [
+        "BF:A6:06:B4:85:DB:DD:2C:3E:9F:6F:5B:64:21:A0:B9:3D:72:7E:BD:37:4C:1C:42:80:6E:1E:42:82:7D:DC:63"
+      ]
+    }
+  }
+]
